@@ -1,0 +1,153 @@
+
+
+
+body {
+	background-image: url(images/background.jpg); 
+	background-size: cover; 
+	font-family: times, serif ;
+	}
+
+.Presentation{
+	
+}
+
+h1{
+	font-size: 50px;
+	height: 50px;
+	text-align: center;
+	border-radius: 50px;
+}
+	p{ 
+		color: rgb(30, 30, 30); 
+		text-justify : justify;}
+
+img{
+	height : 140px;
+	border-radius: 20px; 
+	}
+
+.background{
+	background-image: url(Images/background.jpg); 
+	background-size: cover;
+	text-align: center; 
+}
+
+.Presentation{
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	border:2px solid black;
+	padding-bottom: 30px;
+	box-shadow: 10px 10px 20px black;
+}
+.Info{
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	border:2px solid black;
+	padding-bottom: 30px;
+	box-shadow: 10px 10px 20px black;
+
+} 
+
+.Expériences{
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	border:2px solid black;
+	padding-bottom: 30px;
+	box-shadow: 10px 10px 20px black;
+
+}
+.Formations{
+	margin-top:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	border:2px solid black;
+	padding-bottom: 30px;
+	margin-bottom:40px;
+	box-shadow: 10px 10px 20px black;
+
+}
+
+.Langues{
+	margin-top: 40px; 
+	margin-bottom:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	padding-bottom: 30px;
+	border:2px solid black;
+	box-shadow: 10px 10px 20px black;
+
+}
+
+.Centres{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	padding-bottom: 30px;
+	border:2px solid black;
+	box-shadow: 10px 10px 20px black;
+
+}
+
+.réseaux{
+	margin-top: 40px;
+	margin-bottom:40px;
+	margin-right: 400px;
+	margin-left: 400px;
+	padding-bottom: 30px;
+	border:2px solid black;
+	box-shadow: 10px 10px 20px black;
+
+}
+
+@media(max-width: 500px)
+
+.PMS{ 
+	line-height: 5px;
+	margin-bottom: 20px; 
+
+ }
+ .MY{
+ 	line-height: 5px;
+ 	margin-top: 20px; 
+ }
+
+ .Madrid{
+ 	line-height: 5px;
+ 	padding-top: 20px;
+ }
+
+ .IESEG{
+ 	line-height: 5px;
+ }
+
+ .NDG{
+ 	line-height: 5px;
+ 	padding-top: 20px;
+ }
+ .BTS{
+ 	line-height: 5px;
+ 	padding-top: 20px;
+ }
+ .NDG 1{
+ 	line-height: 5px;
+ 	padding-top: 20px;
+ }
+
+a{color: black}
+
+.div{
+	margin: 50px;
+	width: 700px;
+}
+
+
+
+
+
